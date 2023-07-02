@@ -1,0 +1,45 @@
+# config.properties having username, password, host and port
+config.properties
+
+# NetBeans specific files
+/nbproject/private/
+/nbproject/gradle.xml
+/nb-configuration.xml
+/nbactions.xml
+
+# Maven specific files
+/target/
+
+# Maven lib directory
+/lib/
+
+# IDE specific files (e.g., IntelliJ, Eclipse, etc.)
+/.idea/
+/.vscode/
+/.classpath
+/.project
+/.settings/
+
+# Build output
+/build/
+/dist/
+
+# Platform-specific files
+.DS_Store
+Thumbs.db
+
+# Maven release and backup files
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Dependency and build files
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Maven Wrapper (optional)
+# Remove these lines if you want to include Maven Wrapper
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar

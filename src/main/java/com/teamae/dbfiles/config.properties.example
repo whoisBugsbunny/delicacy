@@ -1,0 +1,17 @@
+# Database Connection Configuration
+# All are having Default values
+#-------------------------------
+
+# Database Username
+username=root
+
+# Database Password (leave empty if not required)
+password=
+
+# Database Host (for local development, use 'localhost')
+# For live deployment, update with the actual server URL or IP address
+host=localhost
+
+# Database Port (default is 3306 for MySQL or XAMPP)
+# Update if using a different port
+port=3306
