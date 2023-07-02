@@ -1,6 +1,3 @@
-# config.properties having username, password, host and port
-config.properties
-
 # NetBeans specific files
 /nbproject/private/
 /nbproject/gradle.xml
